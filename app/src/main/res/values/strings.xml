@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Questions</string>
+    <string name="add_a_ques">Add a question</string>
+    <string name="question_label">Question</string>
+    <string name="ans_label">Answer</string>
+    <string name="add">Add</string>
+    <string name="questions">Questions</string>
+    <string name="question">Question</string>
+    <string name="answer">Answer</string>
+</resources>
